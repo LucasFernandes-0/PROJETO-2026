@@ -1,4 +1,4 @@
-cibersegurança-desafio-phishing
+Phishing
 Projeto da formação Cybersecurity Specialist da DIO, onde criamos uma página de login falsa para captura de senhas. Utiliza o sistema operacional Kali Linux e a ferramenta setoolkit.
 
 Ao rodar o setoolkit, escolhemos Social Engineering Attacks e Website Attack Vectors. Depois, Credential Harvester Attack Method e Custom Import.
